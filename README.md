@@ -54,7 +54,7 @@
 # pkg install python2 && pkg install wget
 # pip2 install mechanize && pip2 install requests
 # pkg install git
-# git clone https://github.com/nhk46/nhk46
+# git clone https://github.com/nhk46/FB
 # Sukses done lanjut
 # ls
 # cd nhk46
