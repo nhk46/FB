@@ -57,6 +57,6 @@
 # git clone https://github.com/nhk46/FB
 # Sukses done lanjut
 # ls
-# cd nhk46
+# cd FB
 # python2 FB.py
 # SELESAI.
