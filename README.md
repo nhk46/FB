@@ -4,35 +4,39 @@
 
 # TERMUX - NHK - 46
 
-#     MMMddmNmhNMMmhNMdmMM
 
-#     ddyosyyohhdhyhdhhddm
+     MMMddmNmhNMMmhNMdmMM
 
-#     MMh+++yhhddddmNMMMMM
+     ddyosyyohhdhyhdhhddm
 
-#     MMMNssdddddddddmNMMM
+     MMh+++yhhddddmNMMMMM
 
-#     ysdmhhdddddy/-.-+MMM
+     MMMNssdddddddddmNMMM
 
-#     ssymhddddds//+/-:MMM
+     ysdmhhdddddy/-.-+MMM
 
-#     osdmsssyyhoo+o++hMMM
+     ssymhddddds//+/-:MMM
 
-#     ssdh-..--:/++shdmMMM
+     osdmsssyyhoo+o++hMMM
 
-#     hmMN+``.`..-./hhdMMM
+     ssdh-..--:/++shdmMMM
 
-#     hMMd--:-:--.--:odMMM
+     hmMN+``.`..-./hhdMMM
 
-#     hmMh-//::-:-:-:/hMMM
+     hMMd--:-:--.--:odMMM
 
-#     mddyo:.//::++oyyyNhs
+     hmMh-//::-:-:-:/hMMM
 
-#     yyoyms+-.:sysoysymhy
+     mddyo:.//::++oyyyNhs
 
-#     hhhhyoyhhhhhhs///odM
+     yyoyms+-.:sysoysymhy
 
-#     mmsddmMMMMMMMmhyydMM
+     hhhhyoyhhhhhhs///odM
+
+     mmsddmMMMMMMMmhyydMM
+
+
+
 
 # TERMUX NHK 46
 
